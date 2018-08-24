@@ -1,1 +1,1 @@
-web: gunicorn hw15-bellybutton-biodiversity:app
+web: gunicorn app:app
